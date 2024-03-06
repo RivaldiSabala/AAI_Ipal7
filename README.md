@@ -1,2 +1,6 @@
-# AAI_Ipal7
-Create AI powered apps with open source LangChain
+# Create AI powered apps with open source LangChain
+
+## Author :
+Nama : Rivaldi Sabala
+Program : Advance AI
+
